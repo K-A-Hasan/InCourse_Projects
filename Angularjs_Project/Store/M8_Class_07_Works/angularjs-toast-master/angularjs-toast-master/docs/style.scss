@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700");
+
+.btn {
+  &:active,
+  &:active:focus,
+  &:focus {
+    outline: 0;
+    box-shadow: none;
+  }
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-width: 1200px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  overflow-x: auto;
+
+  p {
+    font-size: 13px;
+  }
+
+  .hljs {
+    border-radius: 5px;
+  }
+
+  .readme {
+    border-left: 1px solid #ddd;
+    height: 100vh;
+    overflow-y: auto;
+  }
+}
+
+#appendAlert {
+  .angularjs-toast {
+    position: relative;
+
+    ul.toast-container.left {
+      margin-left: 0;
+    }
+  }
+}

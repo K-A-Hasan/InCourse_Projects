@@ -1,0 +1,346 @@
+F:\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.deps.json
+F:\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.json
+F:\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.dev.json
+F:\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.dll
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csprojAssemblyReference.cache
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CoreCompileInputs.cache
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cache
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cs
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfoInputs.cache
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfo.cs
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cache
+F:\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.pdb
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.dll
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.pdb
+F:\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.dll
+F:\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.pdb
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.input.cache
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.output.cache
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorCoreGenerate.cache
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cs
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.Views.pdb
+F:\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CopyComplete
+D:\bishal\From home\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.deps.json
+D:\bishal\From home\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.json
+D:\bishal\From home\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.dev.json
+D:\bishal\From home\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.dll
+D:\bishal\From home\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.pdb
+D:\bishal\From home\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.dll
+D:\bishal\From home\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.pdb
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csprojAssemblyReference.cache
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CoreCompileInputs.cache
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cache
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfoInputs.cache
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfo.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.input.cache
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.output.cache
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorCoreGenerate.cache
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Index.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cache
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.Views.pdb
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.dll
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.pdb
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CopyComplete
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CoreCompileInputs.cache
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cache
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfoInputs.cache
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfo.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.deps.json
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.json
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.dev.json
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.dll
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.pdb
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.dll
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.pdb
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csprojAssemblyReference.cache
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.input.cache
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.output.cache
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorCoreGenerate.cache
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Create.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\CreateAll.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Index.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\MultipleEdit.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductPartial.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductRows.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cache
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.Views.pdb
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.dll
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.pdb
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CopyComplete
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Delete.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Create.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Delete.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Edit.g.cshtml.cs
+E:\New folder\New folder (5)\M7\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Index.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Create.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Delete.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Edit.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Index.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Create.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\CreateAll.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Delete.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\MultipleEdit.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductPartial.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductRows.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\bishal\From home\Mvc Core Project\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.deps.json
+E:\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.json
+E:\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.dev.json
+E:\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.dll
+E:\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.pdb
+E:\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.dll
+E:\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.pdb
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csprojAssemblyReference.cache
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CoreCompileInputs.cache
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cache
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfoInputs.cache
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfo.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.input.cache
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.output.cache
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorCoreGenerate.cache
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Create.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Delete.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Edit.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Create.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\CreateAll.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Delete.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\MultipleEdit.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductRows.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cache
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cs
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.Views.pdb
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.dll
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.pdb
+E:\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CopyComplete
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.deps.json
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.json
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.dev.json
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.dll
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.pdb
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.dll
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.pdb
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csprojAssemblyReference.cache
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CoreCompileInputs.cache
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cache
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfoInputs.cache
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfo.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.input.cache
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.output.cache
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorCoreGenerate.cache
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Create.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Delete.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Edit.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Index.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Create.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\CreateAll.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Delete.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Index.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\MultipleEdit.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductPartial.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductRows.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cache
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cs
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.Views.pdb
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.dll
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.pdb
+F:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CopyComplete
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.deps.json
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.json
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.dev.json
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.dll
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.pdb
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.dll
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.pdb
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csprojAssemblyReference.cache
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CoreCompileInputs.cache
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cache
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfoInputs.cache
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfo.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.input.cache
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.output.cache
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorCoreGenerate.cache
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Create.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Delete.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Edit.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Create.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\CreateAll.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Delete.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Index.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\MultipleEdit.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductPartial.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductRows.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cache
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cs
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.Views.pdb
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.dll
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.pdb
+E:\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CopyComplete
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.deps.json
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.json
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.runtimeconfig.dev.json
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.dll
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.pdb
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.dll
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\bin\Debug\netcoreapp2.2\Apple.Views.pdb
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CoreCompileInputs.cache
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cache
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorAssemblyInfo.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfoInputs.cache
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.AssemblyInfo.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.input.cache
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.TagHelpers.output.cache
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorCoreGenerate.cache
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Create.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Delete.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Edit.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Features\Index.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Create.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Delete.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Edit.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Products\Index.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Create.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Delete.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Edit.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\ProductTypes\Index.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Create.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\CreateAll.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Delete.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\Index.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\MultipleEdit.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductPartial.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\Type\_ProductRows.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cache
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.RazorTargetAssemblyInfo.cs
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.Views.pdb
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.dll
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.pdb
+D:\Projects\M7_Core_Project\1256648-K.A.Hasan\1256648-K.A.Hasan\Apple\Apple\obj\Debug\netcoreapp2.2\Apple.csproj.CopyComplete

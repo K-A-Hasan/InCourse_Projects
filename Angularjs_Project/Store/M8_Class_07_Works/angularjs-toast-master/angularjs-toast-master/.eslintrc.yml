@@ -1,0 +1,19 @@
+extends:
+  - airbnb-base
+  - pegasus
+
+plugins:
+  - angular
+
+rules:
+  import/no-extraneous-dependencies: off
+  no-console: off
+
+globals:
+  angular: true
+
+env:
+  node: true
+  browser: true
+  jasmine: true
+  angular/mocks: true

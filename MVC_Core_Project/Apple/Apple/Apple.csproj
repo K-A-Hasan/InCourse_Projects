@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.TagHelpers" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="X.PagedList" Version="8.0.7" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="8.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\form\.sass-cache\0ab8abc0fed2841fc21e545dead228d38843c7ea\main.scssc" />
+    <None Include="wwwroot\form\.sass-cache\0ab8abc0fed2841fc21e545dead228d38843c7ea\responsive.scssc" />
+    <None Include="wwwroot\form\.sass-cache\11c5c9630c8fb379c36d1e3d5cedae3242345ede\style.scssc" />
+    <None Include="wwwroot\form\.sass-cache\21880c0ffe15753a53f8402e9f64e1077e071510\style.scssc" />
+    <None Include="wwwroot\form\.sass-cache\2af427b2894d1e78c5806e231aa35d00838a84e0\style.scssc" />
+    <None Include="wwwroot\form\.sass-cache\5947b2fd6fea889b366315e45d8aae9649d4a553\style.scssc" />
+    <None Include="wwwroot\form\.sass-cache\632f5d1dd893d2e8764de51b8ca4120e25043113\extend.scssc" />
+    <None Include="wwwroot\form\.sass-cache\632f5d1dd893d2e8764de51b8ca4120e25043113\fonts.scssc" />
+    <None Include="wwwroot\form\.sass-cache\632f5d1dd893d2e8764de51b8ca4120e25043113\global.scssc" />
+    <None Include="wwwroot\form\.sass-cache\632f5d1dd893d2e8764de51b8ca4120e25043113\minxi.scssc" />
+    <None Include="wwwroot\form\.sass-cache\632f5d1dd893d2e8764de51b8ca4120e25043113\variables.scssc" />
+    <None Include="wwwroot\form\.sass-cache\643489b018602f15119d8f44aeb7fc79468873a9\main.scssc" />
+    <None Include="wwwroot\form\.sass-cache\643489b018602f15119d8f44aeb7fc79468873a9\responsive.scssc" />
+    <None Include="wwwroot\form\.sass-cache\7643c8aa2e335ff5e104bc47d8dd7f1a0693bb39\extend.scssc" />
+    <None Include="wwwroot\form\.sass-cache\7643c8aa2e335ff5e104bc47d8dd7f1a0693bb39\fonts.scssc" />
+    <None Include="wwwroot\form\.sass-cache\7643c8aa2e335ff5e104bc47d8dd7f1a0693bb39\global.scssc" />
+    <None Include="wwwroot\form\.sass-cache\7643c8aa2e335ff5e104bc47d8dd7f1a0693bb39\minxi.scssc" />
+    <None Include="wwwroot\form\.sass-cache\7643c8aa2e335ff5e104bc47d8dd7f1a0693bb39\variables.scssc" />
+    <None Include="wwwroot\form\.sass-cache\9618751b08223fcf3aa454f875563042fa3f61bc\extend.scssc" />
+    <None Include="wwwroot\form\.sass-cache\9618751b08223fcf3aa454f875563042fa3f61bc\fonts.scssc" />
+    <None Include="wwwroot\form\.sass-cache\9618751b08223fcf3aa454f875563042fa3f61bc\global.scssc" />
+    <None Include="wwwroot\form\.sass-cache\9618751b08223fcf3aa454f875563042fa3f61bc\minxi.scssc" />
+    <None Include="wwwroot\form\.sass-cache\9618751b08223fcf3aa454f875563042fa3f61bc\variables.scssc" />
+    <None Include="wwwroot\form\.sass-cache\b5ec1c582439724031316ff1eb0959cf1f72e565\main.scssc" />
+    <None Include="wwwroot\form\.sass-cache\b5ec1c582439724031316ff1eb0959cf1f72e565\responsive.scssc" />
+    <None Include="wwwroot\form\.sass-cache\e36cc9f3e18cb256035710746e3bec994a69527d\extend.scssc" />
+    <None Include="wwwroot\form\.sass-cache\e36cc9f3e18cb256035710746e3bec994a69527d\fonts.scssc" />
+    <None Include="wwwroot\form\.sass-cache\e36cc9f3e18cb256035710746e3bec994a69527d\global.scssc" />
+    <None Include="wwwroot\form\.sass-cache\e36cc9f3e18cb256035710746e3bec994a69527d\minxi.scssc" />
+    <None Include="wwwroot\form\.sass-cache\e36cc9f3e18cb256035710746e3bec994a69527d\variables.scssc" />
+    <None Include="wwwroot\form\.sass-cache\f49285f1317a1cafa93ab4f5de346f92bbc40d58\main.scssc" />
+    <None Include="wwwroot\form\.sass-cache\f49285f1317a1cafa93ab4f5de346f92bbc40d58\responsive.scssc" />
+  </ItemGroup>
+
+</Project>

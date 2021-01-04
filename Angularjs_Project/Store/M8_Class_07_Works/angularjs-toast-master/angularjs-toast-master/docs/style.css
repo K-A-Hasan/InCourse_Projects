@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700");
+.btn:active, .btn:active:focus, .btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-width: 1200px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  overflow-x: auto;
+}
+body p {
+  font-size: 13px;
+}
+body .hljs {
+  border-radius: 5px;
+}
+body .readme {
+  border-left: 1px solid #ddd;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+#appendAlert .angularjs-toast {
+  position: relative;
+}
+#appendAlert .angularjs-toast ul.toast-container.left {
+  margin-left: 0;
+}

@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Apple.Model.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="main">
+        <div class="d-flex justify-content-end mb-1">
+
+
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-info" data-toggle="modal" data-target="#exampleModal">
+                Action
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title " id="exampleModalLabel">Data modification</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <a class="dropdown-item btn btn-info" asp-action="Index" asp-controller="ProductTypes">Modify Type</a><hr />
+                            <a class="dropdown-item btn btn-info" asp-action="CreateAll" asp-controller="Type">Add Type with Products</a><hr />
+                            <a class="dropdown-item btn btn-info" asp-action="Index" asp-controller="Products">Modify Products</a><hr />
+                            <a class="dropdown-item btn btn-info" asp-action="Index" asp-controller="Features">Modify feature</a>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ReleaseDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductType)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ReleaseDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductType.ProductTypeName)
+                        </td>
+
+                        <td class="text-right">
+                            <a asp-action="Edit" asp-route-id="@item.ProductId" class="btn btn-outline-success"><i class="ti-pencil-alt"></i></a> |
+
+                            <a asp-action="Delete" asp-route-id="@item.ProductId" class="btn btn-outline-danger"><i class="ti-trash"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+@section styles{
+    <link href="~/form/fonts/themify-icons/themify-icons.css" rel="stylesheet" />
+    <link href="~/form/css/style.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: aliceblue;
+        }
+    </style>
+}

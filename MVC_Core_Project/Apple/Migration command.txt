@@ -1,0 +1,7 @@
+
+Security
+Update-Database -Context "ApplicationDbContext"
+
+
+Database
+Update-Database -Context "AppleDbContext"

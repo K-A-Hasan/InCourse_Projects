@@ -1,0 +1,256 @@
+﻿@model ProductType
+@{
+    ViewData["Title"] = "CreateAll";
+}
+<div class="container">
+    <div class="main">
+
+        <div class="card bg-white" id="type-card">
+            <div class="card-header">
+                <h3 class="text-center">
+
+                    <span class="icon text-center"><i class="ti-mobile">/</i><i class=" ti-desktop">/</i><i class="ti-tablet">/</i></span>
+                </h3>
+                <h3 class="text-center">
+                    <span class="title_text ">Type</span>
+                </h3>
+                <div class="form-group row">
+                    <span class="step-heading col-6">Type Informaltion: </span>
+
+                    <span class="step-number col-6 text-right">Step 1 / 2</span>
+                </div>
+
+            </div>
+            <div class="card-body">
+
+                <div class="card-text">
+                    <form asp-action="CreateAll" id="formProductType">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group row">
+                            @*<label asp-for="ProductTypeName" class="col-form-label col-2 text-right"></label>*@
+
+                            <div class="col">
+                                <input asp-for="ProductTypeName" class="form-control" placeholder="Product Type " />
+                                <span asp-validation-for="ProductTypeName" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <div class="col-12 text-right">
+                                <button type="button" id="type-next" class="btn btn-primary btn-sm ">Next</button>
+                            </div>
+
+
+                        </div>
+                    </form>
+
+                </div>
+
+
+            </div>
+        </div>
+        <div class="card" id="product-card" style="display:none">
+            <div class="card-header">
+                <div class="form-group row">
+                    <span class="step-heading col-6">Add Product: </span>
+
+                    <span class="step-number col-6 text-right">Step 2 / 2</span>
+                </div>
+            </div>
+            <div class="card-body">
+                <form id="formProduct">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Product Name</th>
+                                <th>ReleaseDate</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody id="productTableBody"></tbody>
+                        <tfoot>
+                            @await Html.PartialAsync("_ProductPartial", new Product { })
+
+                        </tfoot>
+                    </table>
+                </form>
+
+            </div>
+            <div class="card-footer">
+                <div class="d-flex justify-content-end">
+                    <button type="button" class="btn btn-primary btn-sm" id="type-finish">
+                        Save & Finish
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="card bg-white">
+            <div class="card-footer">
+                <div class="d-flex">
+                    <a class="card-link btn btn-dark" asp-action="Index"><span class="fa fa-long-arrow-left"></span> Back to list</a>
+                    <a class="card-link ml-auto btn btn-dark" asp-action="Create" asp-controller="Products">Add product <span class="fa fa-long-arrow-right"></span></a>
+                </div>
+            </div>
+        </div>
+
+        <div aria-live="polite" aria-atomic="true" style="position: fixed; top:70px; right:0px; min-height: 1000px;">
+            <!-- Position it -->
+            <div style="position: fixed; top: 70px; right: 0;min-width:500px">
+
+                <!-- Then put toasts within -->
+                <div class="toast" role="alert" aria-live="assertive" aria-atomic="true" data-delay="1000" id="toastProductType">
+                    <div class="toast-header">
+
+                        <strong class="mr-auto">Warning</strong>
+                        <small class="text-muted">error</small>
+                        <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="toast-body">
+                        There are some errors
+                    </div>
+                </div>
+
+                <div class="toast" role="alert" aria-live="assertive" aria-atomic="true" data-delay="3000" id="toastProduct">
+                    <div class="toast-header">
+
+                        <strong class="mr-auto">Warning</strong>
+                        <small class="text-muted">missing</small>
+                        <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="toast-body">
+                        No product added.
+                    </div>
+                </div>
+                <div class="toast" role="alert" aria-live="assertive" aria-atomic="true" data-delay="3000" id="toastResult">
+                    <div class="toast-header">
+
+                        <strong class="mr-auto">Success</strong>
+                        <small class="text-muted">saved</small>
+                        <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="toast-body">
+                        Data saved successfully.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section styles {
+
+    <environment include="Development">
+        <link href="~/libs/fontawesome/css/font-awesome.css" rel="stylesheet" />
+        <link href="~/libs/gijgo/css/gijgo.css" rel="stylesheet" />
+        <link href="~/form/fonts/themify-icons/themify-icons.css" rel="stylesheet" />
+        <link href="~/form/css/style.css" rel="stylesheet" />
+
+    </environment>
+}
+@section scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script src="~/libs/gijgo/js/gijgo.js"></script>
+    <environment include="Development">
+
+
+        <script>
+            var type = {
+                Products: []
+            };
+            $(document).ready(function () {
+                $("#type-next").click(() => {
+                    var valid = $('form#formProductType').valid();
+                    if (valid) {
+
+                        $("#product-card").show();
+                    }
+                    else $("#product-card").hide();
+                });
+                $("button.add").click(function () {
+
+                    if (!$("#formProduct").valid()) return;
+                    type.Products.push({ ProductName: $("#ProductName").val(), ReleaseDate: $("#ReleaseDate").val() });
+                    fillProductTable();
+
+                    $("#ProductName").val("");
+                    $("#ReleaseDate").val("")
+                });
+
+                $("#type-finish").click(() => {
+                    var valid = $('form#formProductType').valid();
+                    if (!valid) {
+                        $('#toastProductType').toast('show');
+                    }
+                    if (type.Products.length == 0) {
+                        $('#toastProduct').toast('show');
+                    }
+                    if (!valid || type.Products.length == 0) return;
+                    type.ProductTypeName = $('#ProductTypeName').val();
+                    console.log(type);
+                    var dataType = 'application/json; charset=utf-8';
+                    $.ajax({
+                        type: "POST",
+                        url: "/Type/CreateAll",
+                        dataType: "json",
+                        contentType: "application/json",
+                        data: JSON.stringify(type),
+                        complete: function (jqXHR) {
+                            if (jqXHR.readyState === 4) {
+
+                                var r = JSON.parse(jqXHR.responseText);
+                                console.log(r);
+                                if (r.success == true) {
+                                    console.log('ok');
+                                    $('#toastResult').toast('show');
+                                    $('form#formProductType').trigger('reset');
+                                    type = {
+                                        Products: []
+                                    };
+                                    $("#productTableBody").empty();
+                                }
+
+
+                            }
+                        }
+                    });
+                });
+            });
+            function fillProductTable() {
+                $("#productTableBody").empty();
+
+                var i = type.Products.length - 1;
+                for (var i = 0; i < type.Products.length; i++) {
+                    $(`<tr>
+                                                                                                                <td>${type.Products[i].ProductName}</td>
+                                                                                                                <td>${type.Products[i].ReleaseDate}</td>
+                                                                                                                <td><button type='button' class="btn btn-danger btn-sm del-product" data-index=${i}><span class="fa fa-trash"></span></button></td>
+                                                                                                            </tr>`)
+                        .appendTo($("#productTableBody"));
+                }
+                $("button.del-product").click(function () {
+
+                    var index = $(this).data("index");
+                    type.Products.splice(index, 1);
+                    $(this).closest("tr").remove();
+                });
+
+
+            }
+            //$(document).ready(() => {
+            //    $("#ReleaseDate").datepicker({
+            //        uiLibrary: 'bootstrap4',
+            //        format: 'yyyy-mm-dd'
+            //    });
+            //})
+        </script>
+        <script>
+            $('#ReleaseDate').datepicker();
+        </script>
+    </environment>
+}

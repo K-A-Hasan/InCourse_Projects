@@ -1,0 +1,77 @@
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.deps.json
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.runtimeconfig.json
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.runtimeconfig.dev.json
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.dll
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.csproj.CoreCompileInputs.cache
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorAssemblyInfo.cache
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorAssemblyInfo.cs
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.AssemblyInfoInputs.cache
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.AssemblyInfo.cs
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorTargetAssemblyInfo.cache
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.TagHelpers.input.cache
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.TagHelpers.output.cache
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorCoreGenerate.cache
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorTargetAssemblyInfo.cs
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.dll
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.pdb
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.pdb
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.Views.dll
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.Views.pdb
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.Views.pdb
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.csproj.CopyComplete
+D:\R43\M8\Class 22\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.csprojAssemblyReference.cache
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.deps.json
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.runtimeconfig.json
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.runtimeconfig.dev.json
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.dll
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.pdb
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.Views.dll
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.Views.pdb
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.csproj.CoreCompileInputs.cache
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorAssemblyInfo.cache
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorAssemblyInfo.cs
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.AssemblyInfoInputs.cache
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.AssemblyInfo.cs
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.TagHelpers.input.cache
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.TagHelpers.output.cache
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorCoreGenerate.cache
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorTargetAssemblyInfo.cache
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorTargetAssemblyInfo.cs
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.Views.pdb
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.dll
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.pdb
+D:\R43\M8\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.csproj.CopyComplete
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.deps.json
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.runtimeconfig.json
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.runtimeconfig.dev.json
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.dll
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.pdb
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.Views.dll
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\bin\Debug\netcoreapp2.2\TCMS_angularJS.Views.pdb
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.csprojAssemblyReference.cache
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.csproj.CoreCompileInputs.cache
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorAssemblyInfo.cache
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorAssemblyInfo.cs
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.AssemblyInfoInputs.cache
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.AssemblyInfo.cs
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.TagHelpers.input.cache
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.TagHelpers.output.cache
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorCoreGenerate.cache
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorTargetAssemblyInfo.cache
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.RazorTargetAssemblyInfo.cs
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.Views.pdb
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.dll
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.pdb
+D:\bishal\New folder\Class 23\TCMS_angularJS_Solution\TCMS_angularJS\obj\Debug\netcoreapp2.2\TCMS_angularJS.csproj.CopyComplete

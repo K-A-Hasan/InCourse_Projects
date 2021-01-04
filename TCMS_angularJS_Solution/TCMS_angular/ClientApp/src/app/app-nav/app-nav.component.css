@@ -1,0 +1,23 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 260px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-image: url('../../assets/2e1095cf82144975b0b2.jpg');
+}
+.user-view {
+  background-image: url('../../assets/9161yjgix0l._ac_sx450_.jpg');
+  
+  background-position: left top;
+}
