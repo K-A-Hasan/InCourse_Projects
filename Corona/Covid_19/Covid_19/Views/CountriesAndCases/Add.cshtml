@@ -1,0 +1,223 @@
+﻿@model Covid_19.Models.Country
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add Country and Cases </h2>
+@using (Html.BeginForm("AddPost", "CountriesAndCases", FormMethod.Post, new { id = "feq", onesubmit = "javascript:return false;" }))
+{
+    <div class="row">
+        <div class="col-12">
+            <div role="alert" id="alert" class="alert alert-suceess" style="display:none">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="alert-heading" id="msg-heading">Result</h4>
+                <p id="msg"></p>
+
+            </div>
+        </div>
+    </div>
+    <div class="row" style="padding-top:100px;">
+        <div class="col-6">
+            <h4>Region</h4>
+            <div>
+                @Html.LabelFor(x => x.RegionId)
+                @Html.DropDownListFor(x => x.RegionId, new SelectList(ViewBag.Regions, "RegionId", "Region_Name"), "Select One", new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.RegionId, "", new { @class = "text-danger" })
+
+            </div>
+            <div>
+                @Html.LabelFor(x => x.Country_Name)
+                @Html.TextBoxFor(x => x.Country_Name, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Country_Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="col-6">
+            <h4>Cases</h4>
+            <table class="table table-bordered table-sm">
+                <thead class="thead-light">
+                    <tr>
+                        <th>Date Reported</th>
+                        <th>New cases</th>
+                        <th>New deaths</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody id="case"></tbody>
+            </table>
+            <div class="form-inline">
+
+                <label class="sr-only" for="Date_reported">Date Reported</label>
+                <input type="Text" class="form-control mb-3 mr-sm-2" name="Date_reported" id="dt-picker" placeholder="Date reported">
+                <label class="sr-only" for="New_Cases">New cases</label>
+                <input type="Text" class="form-control mb-3 mr-sm-2" name="New_Cases" id="nc" placeholder="New Cases">
+                <label class="sr-only" for="New_deaths">New deaths</label>
+                <input type="Text" class="form-control mb-3 mr-sm-2" name="New_deaths" id="nd" placeholder="New deaths">
+                <button type="button" id="addcase" class="btn btn-primary  mb-3">Add</button>
+            </div>
+        </div>
+        <div class="col-12 mt-2">
+            <div class="d-flex justify-content-center">
+                <button type="button" class="btn btn-primary" id="save">Save All</button>
+            </div>
+        </div>
+        @Html.ActionLink("Back to list", "Index", "CountriesAndCases")
+    </div>
+}
+@section styles{
+
+    <link href="~/Content/bootstrap-datepicker.standalone.css" rel="stylesheet" />
+}
+@section scripts
+{
+    <script src="~/Scripts/bootstrap-datepicker.js"></script>
+
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script>
+        var country =
+        {
+            Country_Name: "",
+            RegionId: 0,
+            CoronaCases:[]
+        }
+        $(document).ready(function ()
+        {
+            $('#dt-picker input').datepicker
+               ({
+                    format: 'yyyy-mm-dd'
+               });
+            if (country.CoronaCases.length == 0)
+            {
+                $("#case").append("<tr><td colspan='4'>No Cases added.</td></tr>");
+            }
+            else
+            {
+                for (var i = 0; i < country.CoronaCases.length; i++)
+                {
+                    $("#case").append(`<tr>
+                                            <td>${i + 1}</td>
+                                            <td >${country.CoronaCases[i].Date_reported}</td >
+                                            <td >${country.CoronaCases[i].New_Cases}</td >
+                                            <td >${country.CoronaCases[i].New_deaths}</td >
+                                            <td><button data-act='del'  data-index='${i}' type="button" class='btn btn-primary btn-sm del'>&times;</button>
+                                    </tr>`);
+                }
+                $("button[data-act='del']").addClass('btn btn-info btn-sm del');
+            }
+            $("#addcase").click(function ()
+            {
+                country.CoronaCases.push({ Date_reported: $("#dt-picker").val(), New_Cases: $("#nc").val(), New_deaths: $("#nd").val() })
+                $("#case").append(`<tr>
+                                            <td>${country.CoronaCases.length}</td>
+                                            <td >${$("#dt-picker").val()}</td>
+                                             <td >${$("#nc").val()}</td>
+                                            <td >${$("#nd").val()}</td>
+                                            <td><button data-act='del' data-index='${country.CoronaCases.length - 1}' type='button" class='btn btn-primary btn-sm del'>&times;</button>
+                                    </tr>`);
+                $("button[data-act='del']").addClass('btn btn-info btn-sm del')
+            })
+            $("#save").click(function (evt)
+            {
+                //alert("Save");
+                evt.preventDefault();
+                evt.stopPropagation();
+                if ($("#feq").valid())
+                {
+                    console.log('Ok');
+                    country.RegionId = $("#RegionId").val();
+                    country.Country_Name = $("#Country_Name").val()
+
+                    console.log(country);
+                    $.ajax({
+                        type: "POST",
+                        url: "@Url.Action("AddPost", "CountriesAndCases")",
+
+                        data: country,
+                        dataType: "json"
+                    }).done(function (r)
+                    {
+                        console.log(r);
+                        if (r.success == true)
+                        {
+                            $("#alert").removeClass("alert-warning").addClass("alert-success").show();
+                            $("#msg-heading").html("Success");
+                            $("#msg").html(r.message);
+                            $("#feq").trigger("reset");
+                            country =
+                              {
+                                Country_Name: "",
+                                RegionId: 0,
+                                CoronaCases: []
+                              }
+                            $("#case").empty();
+                            $("#case").append("<tr><td colspan='4'>No Case added.</td></tr>");
+
+                        }
+                        else
+                        {
+                            $("#alert").removeClass("alert-success").addClass("alert-warning").show();
+                            $("#msg-heading").html("Error");
+                            $("#msg").html(r.message);
+                        }
+
+                    }).fail(function (err)
+                      {
+                        console.log(err);
+                      });
+                }
+                else
+                {
+                    console.log('Not Ok');
+                    if (country.CoronaCases.length == 0)
+                    {
+
+                    }
+                }
+
+
+            })
+            $('body').on("click", "button.del", function (evt) {
+
+                var b = $(this);
+                var tr = b.closest('tr');
+                var i = b.data("index");
+                console.log(i);
+                tr.remove();
+                country.CoronaCases.splice(i, 1);
+                console.log(country.CoronaCases);
+                $("#case").empty();
+                if (country.CoronaCases.length == 0) {
+                    $("#case").append("<tr><td colspan='4'>No Parts added.</td></tr>");
+                }
+                else {
+                    for (var i = 0; i < country.CoronaCases.length; i++) {
+                        $("#case").append(`<tr>
+                                            <td>${i + 1}</td>
+                                            <td >${country.CoronaCases[i].Date_reported}</td >
+
+                                            <td><button data-act='del'  data-index='${i}' type="button" class='btn btn-primary btn-sm del'>&times;</button>
+                                    </tr>`);
+                    }
+                    $("button[data-act='del']").addClass('btn btn-info btn-sm del');
+                }
+                evt.preventDefault();
+
+            })
+
+        })
+        
+    </script>
+    <script>
+        $(document).ready(() => {
+            $("input[id*=dt-picker]").datepicker()
+            //$("#dt-picker input").datepicker(
+            //    {
+            //        format: "yyyy-mm-dd"
+            //    }
+            //);
+        })
+    </script>
+}

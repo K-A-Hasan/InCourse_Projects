@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <style>
+        body {
+            padding-top: 70px;
+        }
+    </style>
+    @RenderSection("styles", false)
+</head>
+<body>
+    <div class="navbar navbar-light bg-light navbar-expand-md fixed-top border-bottom">
+        <div class="container">
+            @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nbar" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="navbar-collapse collapse" id="nbar">
+                <ul class="nav navbar-nav">
+                    <li class="nav-item">
+
+                        @Html.ActionLink("Data Table", "Index", "Countries", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                </ul>
+            </div>
+            <div class="navbar-collapse collapse" id="nbar">
+                <ul class="nav navbar-nav">
+                    <li class="nav-item">
+                        @Html.ActionLink("Covid-19", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+
+                    </li>
+                </ul>
+            </div>
+
+
+
+
+            <ul class="navbar-nav ml-auto">
+                @if (Request.IsAuthenticated)
+                {
+                    <li class="nav-item">@Html.ActionLink("Logout", "Logout", "Accounts", new { }, new { @class = "nav-link" })</li>
+                }
+                else
+                {
+                    <li class="nav-item">@Html.ActionLink("Register", "Register", "Accounts", new { }, new { @class = "nav-link" })</li>
+                    <li class="nav-item">@Html.ActionLink("Login", "Login", "Accounts", new { }, new { @class = "nav-link" })</li>
+                }
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Data Modification
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        @Html.ActionLink("Add master", "Add", "CountriesAndCases", new { }, new { @class = "dropdown-item" })<hr />
+                        <a class="nav-item nav-link disabled" href="#">Modify individual</a><hr />
+                        @Html.ActionLink("Country", "Index", "Countries1", new { }, new { @class = "dropdown-item" })
+                        @Html.ActionLink("Cases", "Index", "CoronaCases", new { }, new { @class = "dropdown-item" })
+                        @Html.ActionLink("Region", "Index", "Regions", new { }, new { @class = "dropdown-item" })
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+    
+    <div class="container body-content">
+        @RenderBody()
+
+
+    </div>
+    <footer class="container">
+        <hr />
+        <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+    </footer>
+    <script src="~/Scripts/umd/popper.js"></script>
+    <script src="~/Scripts/jquery-3.5.1.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @RenderSection("scripts", false)
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Covid_19.Models.Region>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { }, new { @class = "btn btn-info btn-sm" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Region_Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Region_Name)
+        </td>
+        <td>
+            <a class="btn btn-primary btn-sm rounded-circle" href="@Url.Action("Edit", "Regions", new { id = item.RegionId})"><i class="fa fa-pencil"></i></a>
+            <a class="btn btn-danger btn-sm rounded-circle" href="@Url.Action("Delete", "Regions", new { id =item.RegionId })"><i class="fa fa-trash"></i></a>
+            
+        </td>
+    </tr>
+}
+
+</table>

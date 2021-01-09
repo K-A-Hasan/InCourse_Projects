@@ -1,0 +1,50 @@
+﻿@model Covid_19.Models.CoronaCase
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CoronaCase</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Country.Country_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Country.Country_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date_reported)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date_reported)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.New_Cases)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.New_Cases)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.New_deaths)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.New_deaths)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CoronaCaseId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
